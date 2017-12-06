@@ -1,0 +1,21 @@
+body,html{
+    margin: 0%;
+    max-width: 100%;
+    padding: 0%;
+}
+h2{
+    padding-top: 20%;
+    color:gray;
+    
+}
+h2:hover{
+    color:black;
+}
+header{
+    width: 100%;
+    position: fixed;
+    background-color: slategrey;
+}
+li{
+    display: inline-block;
+}
