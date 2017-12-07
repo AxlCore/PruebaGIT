@@ -14,8 +14,9 @@ h2:hover{
 header{
     width: 100%;
     position: fixed;
-    background-color: brown;
+    background-color: black;
 }
 li{
+    color:white;
     display: inline-block;
 }
